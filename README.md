@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with Front End Libraries
 - 💬 Ask me about: Tech stuffs, Web development
 - 📫 How to reach me: https://www.linkedin.com/in/vigneshwaran-m-8a21b720a/
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Love exploring new stuff and keep myself updated in Tech.
 
