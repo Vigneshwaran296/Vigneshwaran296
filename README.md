@@ -1,5 +1,5 @@
 ## Hi there 👋
--  Software Engineer 
+-  I'm a Software Engineer
 - 👯 I’m looking to collaborate on open source Web development projects, Developing applications using Java and Python
 - 💬 Ask me about: Tech stuffs and Software
 - 📫 How to reach me: https://www.linkedin.com/in/vigneshwaran-m-8a21b720a/
